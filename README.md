@@ -7,7 +7,7 @@ Vamos a fazer um aplicativo mashup que utilize APIs libres:
 - Login (Fornecido pelo professor)
 - Cadastro e Edição de Preferências do usuário
 - Visualização das informações das API’s em função das preferências
-- Avaliação de Usabilidade
+- Avaliação de Usabilidade.
 
 
 ## Executar
